@@ -79,10 +79,10 @@ DFFF0FFF: 8 255 255 255 255 255 248 255 127
 Here are two videos showcasing the project in action:
 
 1. **Serial Monitor Output**: This video demonstrates the serial monitor printing the CAN messages (IDs and data) in real-time.  
-   [https://www.youtube.com/watch?v=zv51l-R-WCM](#)]
+   [https://www.youtube.com/watch?v=zv51l-R-WCM](#)
 
 2. **Circuit and Serial Monitor**: This video shows the physical circuit setup alongside the serial monitor displaying the CAN messages.  
-   [https://www.youtube.com/shorts/67ETuiw3_Fw](#)]
+   [https://www.youtube.com/shorts/67ETuiw3_Fw](#)
 
 
 
