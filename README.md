@@ -56,21 +56,19 @@ The code is located in the file [`src/main.cpp`](src/main.cpp). It configures th
 - **Filter**: Configured to accept all messages.
 
 Example output on the serial monitor:
-0: 0 
-40000615: 2 255 255 
-80076060: 0 
+
+ 
+40000615: 2 255 255
+ 
 0: 8 0 126 2 0 0 0 0 0 
-DFFFFFFF: 0 
-0: 0 
-0: 0 
+ 
 DFFCFF7F: 0 
 0: 8 0 0 0 0 127 122 96 96 
-C01CE06A: 0 
-9C0FFFFF: 0 
-DFFFFF7F: 0 
-0: 0 
+
 800F7F7E: 8 0 0 0 0 0 0 0 0 
+
 800E0FFF: 8 0 0 0 0 0 0 0 0 
+
 DFFF0FFF: 8 255 255 255 255 255 248 255 127
 
 
