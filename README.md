@@ -18,7 +18,8 @@ This project uses an Arduino and the MCP2515 module to read the IDs and hexadeci
 
 ## Electrical Diagram
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/e2f15cab-0b67-4962-a6a8-ff0f4bd27791)
+
 
 ## How It Works
 
