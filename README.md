@@ -88,5 +88,5 @@ Here are two videos showcasing the project in action:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/weversonbarbieri/instrument-cluster-can-reader.git
+   git clone [https://github.com/weversonbarbieri/instrument-cluster-can-reader](https://github.com/weversonbarbieri/CAN_BUS_sniff_Arduino_MCP2515.git)
    cd instrument-cluster-can-reader
